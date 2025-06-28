@@ -5,8 +5,7 @@ title = Smart Diary
 
 # Package name and domain
 package.name = smartdiary
-package.domain = org.example
-
+package.domain = smartdiray.vcfbot.work.gd
 # Source code directory and main file
 source.dir = .
 source.main = main.py
